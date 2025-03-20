@@ -4,12 +4,12 @@
 Expert with experience in web and mobile application development. I implemented architectures such as DDD, MVC using .NET 4 and 5, C#, Node.js and Entity Framework, and developed interfaces in React using TypeScript and JavaScript. Deep knowledge of SQL database management. Full-stack development with an emphasis on agile methodologies, teamwork through GitHub, and hardware maintenance.
 </h3>
 
-<div align="center">
+<div align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=RibeiroEJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RibeiroEJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center" margin="1000px">
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
